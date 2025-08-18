@@ -3,5 +3,5 @@ Interactive sales analysis dashboard built using Microsoft Excel to explore cust
 
 
 
-![Alt text]()
+![Alt text](https://github.com/Ghanshyam223/fnp-sales-analysis/blob/bc0615164371deb875da9092d3bf3701d4f80945/Dashboard.png)
 
